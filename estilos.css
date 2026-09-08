@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho {
-  background-color: red;
+  background-color:#502c2c;
   color: white;
   text-align: center;
   padding: 30px;
@@ -40,7 +40,7 @@ body {
 
 .cartao {
   flex: 1;
-  background-color: orange;
+  background-color:#9e7642;
   color: white;
   padding: 20px;
   text-align: center;
